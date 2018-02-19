@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- smartling.translate_paths = products/product/colors/color, products/product/description/feature -->
+<Products>
+	<Product>
+		<Name>Bershka Long Line Car Coat</Name>
+		<Market>
+			<Priority>Low</Priority>
+			<Attributes>
+				<Attribute ID="42" UnitID="Pounds">3.068</Attribute>
+				<Attribute ID="84" UnitID="Dollars">12.499</Attribute>
+			</Attributes>
+			<MarketID>USA</MarketID>
+		</Market>
+		<Market>
+			<Priority>High</Priority>
+			<Attributes>
+				<Attribute ID="42" UnitID="Kg">1534</Attribute>
+				<Attribute ID="84" UnitID="Euro">22.995</Attribute>
+			</Attributes>
+			<MarketID>EU</MarketID>
+		</Market>
+		<Colors>
+			<Color>Red</Color>
+			<Color>Green</Color>
+			<Color>Blue</Color>
+		</Colors>
+		<Description>
+			<feature>Textured wool-mix fabric</feature>
+			<feature>Lined design</feature>
+		</Description>
+	</Product>
+</Products>
